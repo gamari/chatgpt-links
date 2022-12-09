@@ -43,6 +43,11 @@
 
 [ChatGPTによるプログラム生成の可能性と限界](https://qiita.com/autotaker1984/items/5b5ac8c01d11fbbbc4a7)
 
+[チャットできるAI、ChatGPTが｢そこまですごくない｣理由。見えてしまった限界](https://www.businessinsider.jp/post-263042)
+
+- Transformerに強化学習を組み合わせるともっとすごい、という発見｢だけ｣が今回のChatGPTで驚くべきポイント(引用文)
+
+
 ## その他
 
 [GPT-3](/gpt3/README.md)
