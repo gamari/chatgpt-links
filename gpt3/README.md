@@ -2,6 +2,8 @@
 
 2020年7月に、OpenAIが発表した言語モデル。
 
+[URL](https://openai.com/blog/chatgpt/)
+
 ## ChatGTPとの違いは？
 
 ChatGPTはGPT-3の改良版であり、人間のフィードバックを用いてトレーニングされている。
