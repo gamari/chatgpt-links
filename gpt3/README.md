@@ -2,7 +2,7 @@
 
 2020年7月に、OpenAIが発表した言語モデル。
 
-[URL](https://openai.com/blog/chatgpt/)
+[URL](https://openai.com/api/)
 
 ## ChatGTPとの違いは？
 
