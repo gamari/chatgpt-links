@@ -1,6 +1,6 @@
 # 概要
 
-ChatGPTに関するリンク集です。
+[この記事](https://github.com/gamari/chatgpt-links)はChatGPTに関するリンク集です。
 
 記載されているツールを利用する際は自己責任でお願い致します。
 
@@ -42,3 +42,7 @@ ChatGPTに関するリンク集です。
 ### 記事
 
 [ChatGPTによるプログラム生成の可能性と限界](https://qiita.com/autotaker1984/items/5b5ac8c01d11fbbbc4a7)
+
+## その他
+
+[GPT-3](/gpt3/README.md)
