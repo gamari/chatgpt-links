@@ -24,3 +24,14 @@ ChatGPTはGPT-3の改良版であり、人間のフィードバックを用い�
 ## 内部リンク
 
 [/GPT-3のCodeCompletionのQuickstart.md](https://beta.openai.com/docs/guides/code/quickstart)
+
+## ツール
+
+[Creative Reality Studio](https://studio.d-id.com/)
+
+- 画像と音声で喋る映像を作成する。
+
+[Tome](https://beta.tome.app/)
+
+- パワポ作成ツール
+- AI使って色々とできる。
