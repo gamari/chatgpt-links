@@ -8,8 +8,19 @@
 
 ChatGPTはGPT-3の改良版であり、人間のフィードバックを用いてトレーニングされている。
 
+## Links
+
+[elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3)
+
+- GPT3を使ったアプリケーション作成のツイートをまとめている。
+
+
 ## 記事
 
 [ChatGPTで用いられるGPT-3.5系のモデルをAPIから利用してみた](https://qiita.com/kaz2ngt/items/d26dd572bd82fcd3dfd3)
 
 - GPT3.5の利用フローが書かれている。
+
+## 内部リンク
+
+[/GPT-3のCodeCompletionのQuickstart.md](https://beta.openai.com/docs/guides/code/quickstart)
