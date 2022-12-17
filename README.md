@@ -48,6 +48,8 @@
 - Transformerに強化学習を組み合わせるともっとすごい、という発見｢だけ｣が今回のChatGPTで驚くべきポイント(引用文)
 
 
+[Let ChatGPT design an app for you](https://chrislueders.substack.com/p/let-chatgpt-design-an-app-for-you)
+
 ## その他
 
 [GPT-3](/gpt3/README.md)
